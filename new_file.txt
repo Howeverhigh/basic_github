@@ -1,1 +1,2 @@
-This is the new file add from the remote repo
+This is the new file add from the remote repo.
+Add new line in this file from local.
